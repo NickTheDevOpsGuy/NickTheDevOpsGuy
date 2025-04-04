@@ -38,7 +38,7 @@ I reflect & plan every **World Domination Friday**:
 
 ### ✍️ Recent & Upcoming Posts
 
-> Sharing insights, failures, and wins on [LinkedIn](https://www.linkedin.com/in/nicholasclarkdevops)
+> Sharing insights, failures, and wins on [LinkedIn](https://www.linkedin.com/in/nicholasaclark)
 
 - “Why I Chose Terraform over Bicep”
 - “3 Things I Learned from GitOps with ArgoCD”
