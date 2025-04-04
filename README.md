@@ -49,9 +49,9 @@ I reflect & plan every **World Domination Friday**:
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NicholasAClark&show_icons=true&theme=radical" alt="Nick's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NickTheDevOpsGuy&show_icons=true&theme=radical" alt="Nick's GitHub stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicholasAClark&layout=compact&theme=radical" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NickTheDevOpsGuy&layout=compact&theme=radical" alt="Top languages" />
 </p>
 
 ---
@@ -60,7 +60,7 @@ I reflect & plan every **World Domination Friday**:
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/nicholasclarkdevops)
 - 📧 nicholas.a.clark@outlook.com
-- 🌐 [nicholasaclark.dev](https://nicholasaclark.dev) *(Coming Soon)*
+- 🌐 [nickthedevopsguy.dev](https://nickthedevopsguy.dev) *(Coming Soon)*
 
 ---
 
