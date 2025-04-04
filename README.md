@@ -20,10 +20,10 @@
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| [aks-monitoring-lab](https://github.com/NickTheDevOpsGuy/aks-monitoring-lab) | Observability lab with Azure Monitor & App Insights | AKS, Azure Monitor |
-| [gitops-argocd-lab](https://github.com/NickTheDevOpsGuy/gitops-argocd-lab) | GitOps pipeline using ArgoCD and AKS | Kubernetes, ArgoCD |
-| [ci-cd-github-actions](https://github.com/NickTheDevOpsGuy/devops-sample-projects/tree/develop/ci-cd-pipeline-project) | Full CI/CD pipeline demo with GitHub Actions | Docker, GitHub Actions |
-| [terraform-azure-infra](https://github.com/NickTheDevOpsGuy/terraform-azure-infra) | Azure infra setup using Terraform | Terraform, Azure |
+| [aks-monitoring-lab](#) | Observability lab with Azure Monitor & App Insights | AKS, Azure Monitor |
+| [gitops-argocd-lab](#) | GitOps pipeline using ArgoCD and AKS | Kubernetes, ArgoCD |
+| [ci-cd-github-actions](#) | Full CI/CD pipeline demo with GitHub Actions | Docker, GitHub Actions |
+| [terraform-azure-infra](#) | Azure infra setup using Terraform | Terraform, Azure |
 
 ---
 
