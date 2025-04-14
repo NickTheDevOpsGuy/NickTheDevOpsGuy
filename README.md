@@ -60,7 +60,6 @@ I reflect & plan every **World Domination Friday**:
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/nicholasclarkdevops)
 - 📧 nicholas.a.clark@outlook.com
-- 🌐 [nickthedevopsguy.dev](https://nickthedevopsguy.dev) *(Coming Soon)*
 
 ---
 
