@@ -20,10 +20,10 @@
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| [`ci-cd-github-actions`](./ci-cd-github-actions) | CI/CD pipeline with GitHub Actions | GitHub Actions, Docker |
-| [`aks-monitoring-lab`](./aks-monitoring-lab) | Monitoring AKS with Azure Monitor + App Insights | AKS, Azure Monitor |
-| [`gitops-argocd-lab`](./gitops-argocd-lab) | GitOps workflow with ArgoCD | Kubernetes, ArgoCD |
-| [`terraform-azure-infra`](./terraform-azure-infra) | IaC using Terraform for Azure | Terraform, Azure |
+| [`ci-cd-github-actions`](https://github.com/NickTheDevOpsGuy/devops-sample-projects/tree/develop/ci-cd-github-actions) | CI/CD pipeline with GitHub Actions | GitHub Actions, Docker |
+| [`aks-monitoring-lab`](#) | Monitoring AKS with Azure Monitor + App Insights | AKS, Azure Monitor |
+| [`gitops-argocd-lab`](#) | GitOps workflow with ArgoCD | Kubernetes, ArgoCD |
+| [`terraform-azure-infra`](#) | IaC using Terraform for Azure | Terraform, Azure |
 
 ---
 
