@@ -20,10 +20,10 @@
 
 | Project Folder | Description |
 |----------------|-------------|
-| [`aks-monitoring-iac-lab`](../devops-sample-projects/aks-monitoring-iac-lab) | Deploy AKS with Bicep, VNet, Log Analytics, and scripted automation |
-| [`ci-cd-github-actions`](./ci-cd-github-actions) | GitHub Actions pipeline with linting, testing, and Docker image build/push |
-| [`check-url`](./Tools/check-url-cli) | TypeScript CLI tool for parallel URL health checks, built DevOps-style |
-| [`devops-observability-stack`](./devops-observability-stack) | Full Kubernetes observability stack with Prometheus, Loki, Grafana, sample Node app, and GitHub Actions CI/CD | |
+| [`aks-monitoring-iac-lab`](https://github.com/NickTheDevOpsGuy/devops-sample-projects/tree/develop/aks-monitoring-iac-lab) | Deploy AKS with Bicep, VNet, Log Analytics, and scripted automation |
+| [`ci-cd-github-actions`](https://github.com/NickTheDevOpsGuy/devops-sample-projects/tree/develop/ci-cd-github-actions) | GitHub Actions pipeline with linting, testing, and Docker image build/push |
+| [`check-url`](https://github.com/NickTheDevOpsGuy/devops-sample-projects/tree/develop/Tools/check-url-cli) | TypeScript CLI tool for parallel URL health checks, built DevOps-style |
+| [`devops-observability-stack`](https://github.com/NickTheDevOpsGuy/devops-sample-projects/tree/develop/devops-observability-stack) | Full Kubernetes observability stack with Prometheus, Loki, Grafana, sample Node app, and GitHub Actions CI/CD | |
 | *(more coming soon...)* | GitOps, Helm charts, FluxCD, multi-environment IaC... stay tuned |
 
 ---
