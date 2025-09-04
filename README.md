@@ -25,7 +25,7 @@
 | [`check-url`](https://github.com/NickTheDevOpsGuy/devops-sample-projects/tree/develop/Tools/check-url-cli) | TypeScript CLI tool for parallel URL health checks, built DevOps-style |
 | [`devops-observability-stack`](https://github.com/NickTheDevOpsGuy/devops-sample-projects/tree/develop/devops-observability-stack) | Full Kubernetes observability stack with Prometheus, Loki, Grafana, sample Node app, and GitHub Actions CI/CD |
 | [`devops-multi-stage-deployment`](https://github.com/NickTheDevOpsGuy/devops-sample-projects/tree/develop/devops-multi-stage-deployment) | Azure DevOps multi-stage pipeline deploying a FastAPI app with testing, Key Vault, Bicep, and approvals |
-| *(more coming soon...)* | GitOps, Helm charts, FluxCD, multi-environment IaC... stay tuned |
+| [`devops-multi-stage-deployment`](https://github.com/NickTheDevOpsGuy/devops-sample-projects/tree/develop/devops-multi-stage-deployment) | React and TypeScript sample projects |
 
 ---
 
