@@ -45,14 +45,14 @@ Focused on Azure DevOps automation, Infrastructure as Code, and CI/CD pipelines 
 | Category | Repository | Description |
 |-----------|-------------|--------------|
 | **🧠 Certification & Labs** | [**Azure**](https://github.com/NickTheDevOpsGuy/Azure) | All AZ-400 labs, study notes, and Infrastructure-as-Code demos (Bicep · Terraform · Pipelines). |
-|  | [**AWS-Labs**](https://github.com/NickTheDevOpsGuy/AWS) | Cross-cloud AWS practice labs covering EC2, IAM, and Terraform automation. |
+| **🧩 Platform Engineering** | [**AWS-Labs**](https://github.com/NickTheDevOpsGuy/AWS) | Cross-cloud AWS practice labs covering EC2, IAM, and Terraform automation. |
 | **🧩 Platform Engineering** | [**devops-sample-projects**](https://github.com/NickTheDevOpsGuy/devops-sample-projects) | End-to-end Azure DevOps + GitHub Actions projects with IaC, AKS, and monitoring. |
-|  | [**Kubernetes**](https://github.com/NickTheDevOpsGuy/Kubernetes) | Cluster automation, manifests, Helm, and observability stacks for Kubernetes experiments. |
-|  | [**GrowOPs**](https://github.com/NickTheDevOpsGuy/GrowOPs) | DevOps-as-a-Service toolkit — reusable templates, pipelines, and platform blueprints. |
-|  | [**Constellation**](https://github.com/NickTheDevOpsGuy/Constellation) | Central dashboard project connecting all learning, analytics, and lab repositories. |
-| **🎮 React Experiments** | [**ToggleTheDarkness**](https://github.com/NickTheDevOpsGuy/ToggleTheDarkness) | Dark-mode puzzle game built with React + Tailwind — used for CI/CD and testing demos. |
-|  | [**Snake**](https://github.com/NickTheDevOpsGuy/Snake) | Classic Snake rebuilt in React with modern hooks and clean state management. |
-|  | [**React**](https://github.com/NickTheDevOpsGuy/React) | Front-end playground for UI experiments and reusable CI/CD React templates. |
+| **🧩 Platform Engineering** | [**Kubernetes**](https://github.com/NickTheDevOpsGuy/Kubernetes) | Cluster automation, manifests, Helm, and observability stacks for Kubernetes experiments. |
+| **🎮 React Apps** | [**GrowOPs**](https://github.com/NickTheDevOpsGuy/GrowOPs) | DevOps-as-a-Service toolkit — reusable templates, pipelines, and platform blueprints. |
+| **🎮 React Game** | [**Constellation**](https://github.com/NickTheDevOpsGuy/Constellation) | Central dashboard project connecting all learning, analytics, and lab repositories. |
+| **🎮 React Games** | [**ToggleTheDarkness**](https://github.com/NickTheDevOpsGuy/ToggleTheDarkness) | Dark-mode puzzle game built with React + Tailwind — used for CI/CD and testing demos. |
+| **🎮 React Gamexs** | [**Snake**](https://github.com/NickTheDevOpsGuy/Snake) | Classic Snake rebuilt in React with modern hooks and clean state management. |
+| **🎮 React Experiments** | [**React**](https://github.com/NickTheDevOpsGuy/React) | Front-end playground for UI experiments and reusable CI/CD React templates. |
 
 ---
 
