@@ -36,18 +36,13 @@
 
 ---
 
-### 🔥 Featured Projects
+### 🧩 Repository Hubs
 
-Each project below demonstrates a specific DevOps competency — from infrastructure automation to observability and CI/CD governance.
-
-| Project Folder | Description |
-|----------------|-------------|
-| [`aks-monitoring-iac-lab`](https://github.com/NickTheDevOpsGuy/devops-sample-projects/tree/develop/aks-monitoring-iac-lab) | Deploy AKS with Bicep, VNet, Log Analytics, and scripted automation |
-| [`ci-cd-github-actions`](https://github.com/NickTheDevOpsGuy/devops-sample-projects/tree/develop/ci-cd-github-actions) | GitHub Actions pipeline with linting, testing, and Docker image build/push |
-| [`check-url`](https://github.com/NickTheDevOpsGuy/devops-sample-projects/tree/develop/Tools/check-url-cli) | TypeScript CLI tool for parallel URL health checks, built DevOps-style |
-| [`devops-observability-stack`](https://github.com/NickTheDevOpsGuy/devops-sample-projects/tree/develop/devops-observability-stack) | Full Kubernetes observability stack with Prometheus, Loki, Grafana, sample Node app, and GitHub Actions CI/CD |
-| [`devops-multi-stage-deployment`](https://github.com/NickTheDevOpsGuy/devops-sample-projects/tree/develop/devops-multi-stage-deployment) | Azure DevOps multi-stage pipeline deploying a FastAPI app with testing, Key Vault, Bicep, and approvals |
-| [`React`](https://github.com/NickTheDevOpsGuy/React) | React + TypeScript sample projects used for pipeline and containerization demos |
+| Area | Repository |Description | Link |
+|------|--------------|------|------|
+| **AZ-400 Labs** | All Microsoft DevOps certification labs (Bicep, Terraform, Pipelines, Monitoring) | [NickTheDevOpsGuy/Azure](https://github.com/NickTheDevOpsGuy/Azure) |
+| **DevOps Sample Projects** | Platform engineering demos, AKS automation, GitHub Actions, Observability | [NickTheDevOpsGuy/devops-sample-projects](https://github.com/NickTheDevOpsGuy/devops-sample-projects) |
+| **React Projects** | Front-end experiments used in DevOps pipeline demos | [NickTheDevOpsGuy/React](https://github.com/NickTheDevOpsGuy/React) |
 
 ---
 
