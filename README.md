@@ -56,14 +56,6 @@ Focused on Azure DevOps automation, Infrastructure as Code, and CI/CD pipelines 
 
 ---
 
-### 🗓️ Weekly DevOps Ritual
-
-I reflect & plan every **World Domination Friday**:  
-✅ What I conquered  
-🔄 What needs more attention  
-📈 What’s next on the roadmap  
-
----
 
 ### 🗓️ Weekly DevOps Ritual
 
@@ -89,11 +81,8 @@ Because even automation needs iteration.
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NickTheDevOpsGuy&show_icons=true&theme=radical" alt="Nick's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NickTheDevOpsGuy&layout=compact&theme=radical" alt="Top languages" />
-</p>
+![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=NickTheDevOpsGuy&show_icons=true&theme=radical)  
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NickTheDevOpsGuy&layout=compact&theme=radical)
 
 ---
 
