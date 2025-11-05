@@ -86,12 +86,10 @@ Because even automation needs iteration.
 
 ---
 
-### 📫 Let's Connect
+## 🦝 Built by NickDoesDevOps
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/nicholas-a-clark)  
-- 🧑‍💻 [GitHub](https://github.com/NickTheDevOpsGuy)  
+Created with ☕, curiosity, and a bit of chaos by [**Nicholas Clark**](https://www.linkedin.com/in/nickdoesdevops).  
+Follow my learning-in-public journey:  
+**GitHub:** [@NickTheDevOpsGuy](https://github.com/NickTheDevOpsGuy) • **LinkedIn:** [@NickDoesDevOps](https://www.linkedin.com/in/nickdoesdevops)
 
----
-
-> 🦝 *“The world is run by those who ship — and I ship weekly.”*  
-> — **Nick Clark**
+🏷 `#NickDoesDevOps` `#LearningInPublic` `#BuiltInPublic`
