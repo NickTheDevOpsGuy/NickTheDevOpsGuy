@@ -1,48 +1,58 @@
 <h1 align="center">👋 Hi, I'm Nick Clark</h1>
 
 <p align="center">
-🚀 DevOps Engineer&nbsp;|&nbsp;Azure & Kubernetes Specialist&nbsp;|&nbsp;Platform Engineering in Progress <br>
-🌍 Building toward World Domination, one container at a time.
+🚀 <b>DevOps Engineer</b> &nbsp;|&nbsp; <b>Azure & Kubernetes Specialist</b> &nbsp;|&nbsp; <b>Platform Engineering in Progress</b><br/>
+🌍 Building toward <b>World Domination</b> — one container at a time.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AZ--400-Preparing-blue?logo=microsoftazure" />
-  <img src="https://img.shields.io/badge/Terraform-HashiCorp-623CE4?logo=terraform" />
-  <img src="https://img.shields.io/badge/Kubernetes-Certified-blue?logo=kubernetes" />
+  <img src="https://img.shields.io/badge/AZ--400-Preparing-0078D4?logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%2FCD-Azure_DevOps-blueviolet?logo=azuredevops&logoColor=white" />
+  <img src="https://img.shields.io/badge/Built%20In%20Public-%F0%9F%93%88-orange" />
 </p>
 
 ---
 
-> Focused on **Azure DevOps automation, Infrastructure as Code, and CI/CD pipelines** — building practical, production-ready solutions aligned with **AZ-400** and **platform engineering** principles.
+💼 Balanced & Professional (best for GitHub profile)
+
+Focused on Azure DevOps automation, Infrastructure as Code, and CI/CD pipelines — building practical, production-ready solutions rooted in AZ-400 competencies and modern platform engineering practices.
 
 ---
 
-### 💼 What I'm Working On
+### 💼 What I'm Building Toward
 
-- 🌐 **Platform Engineering Fundamentals** – mastering the building blocks  
-- 🔧 **Terraform + Azure** – automating cloud infrastructure with style  
-- 🧠 **AZ-400 Certification** – leveling up my DevOps superpowers  
-- 🛠️ **GitOps & Monitoring** – end-to-end delivery pipelines and observability in AKS  
-
----
-
-### 📚 Current Tech Focus
-
-- **Cloud:** Azure (App Service, AKS, Monitor, Key Vault)  
-- **IaC:** Bicep, Terraform  
-- **Pipelines:** Azure DevOps, GitHub Actions  
-- **Containers:** Docker, Kubernetes  
-- **Monitoring:** Prometheus, Grafana, App Insights  
+- 🌐 **Platform Engineering Fundamentals** – mastering the architecture behind scalable, developer-friendly systems  
+- 🔧 **Terraform + Azure** – automating everything from resource groups to production pipelines with precision  
+- 🧠 **AZ-400 Mastery** – sharpening my DevOps edge through real-world labs and certification prep  
+- 🛠️ **GitOps + Observability** – wiring up full delivery pipelines with dashboards that actually tell the truth  
 
 ---
 
-### 🧩 Repository Hubs
+### 📚 Current Tech Stack
 
-| Area | Repository |Description | Link |
-|------|--------------|------|------|
-| **AZ-400 Labs** | All Microsoft DevOps certification labs (Bicep, Terraform, Pipelines, Monitoring) | [NickTheDevOpsGuy/Azure](https://github.com/NickTheDevOpsGuy/Azure) |
-| **DevOps Sample Projects** | Platform engineering demos, AKS automation, GitHub Actions, Observability | [NickTheDevOpsGuy/devops-sample-projects](https://github.com/NickTheDevOpsGuy/devops-sample-projects) |
-| **React Projects** | Front-end experiments used in DevOps pipeline demos | [NickTheDevOpsGuy/React](https://github.com/NickTheDevOpsGuy/React) |
+- **☁️ Cloud:** Azure (App Service · AKS · Monitor · Key Vault)  
+- **🏗️ Infrastructure as Code:** Bicep · Terraform  
+- **🚀 Pipelines:** Azure DevOps · GitHub Actions  
+- **🐳 Containers:** Docker · Kubernetes  
+- **📈 Monitoring:** Prometheus · Grafana · Application Insights 
+
+---
+
+## 🌍 World Domination Project Universe
+
+| Category | Repository | Description |
+|-----------|-------------|--------------|
+| **🧠 Certification & Labs** | [**Azure**](https://github.com/NickTheDevOpsGuy/Azure) | All AZ-400 labs, study notes, and Infrastructure-as-Code demos (Bicep · Terraform · Pipelines). |
+|  | [**AWS-Labs**](https://github.com/NickTheDevOpsGuy/AWS) | Cross-cloud AWS practice labs covering EC2, IAM, and Terraform automation. |
+| **🧩 Platform Engineering** | [**devops-sample-projects**](https://github.com/NickTheDevOpsGuy/devops-sample-projects) | End-to-end Azure DevOps + GitHub Actions projects with IaC, AKS, and monitoring. |
+|  | [**Kubernetes**](https://github.com/NickTheDevOpsGuy/Kubernetes) | Cluster automation, manifests, Helm, and observability stacks for Kubernetes experiments. |
+|  | [**GrowOPs**](https://github.com/NickTheDevOpsGuy/GrowOPs) | DevOps-as-a-Service toolkit — reusable templates, pipelines, and platform blueprints. |
+|  | [**Constellation**](https://github.com/NickTheDevOpsGuy/Constellation) | Central dashboard project connecting all learning, analytics, and lab repositories. |
+| **🎮 React Experiments** | [**ToggleTheDarkness**](https://github.com/NickTheDevOpsGuy/ToggleTheDarkness) | Dark-mode puzzle game built with React + Tailwind — used for CI/CD and testing demos. |
+|  | [**Snake**](https://github.com/NickTheDevOpsGuy/Snake) | Classic Snake rebuilt in React with modern hooks and clean state management. |
+|  | [**React**](https://github.com/NickTheDevOpsGuy/React) | Front-end playground for UI experiments and reusable CI/CD React templates. |
 
 ---
 
@@ -55,9 +65,21 @@ I reflect & plan every **World Domination Friday**:
 
 ---
 
+### 🗓️ Weekly DevOps Ritual
+
+Every **World Domination Friday**, I take a pause to reflect, refocus, and re-deploy:
+
+- ✅ What I conquered  
+- 🔄 What needs tuning  
+- 🚀 What’s launching next  
+
+Because even automation needs iteration.
+
+---
+
 ### ✍️ Recent & Upcoming Posts
 
-> Sharing insights, failures, and wins on [LinkedIn](https://www.linkedin.com/in/nicholas-a-clark)
+> Sharing real-world lessons, failures, and small victories on [LinkedIn](https://www.linkedin.com/in/nicholas-a-clark)
 
 - “Why I Chose Terraform over Bicep”  
 - “3 Things I Learned from GitOps with ArgoCD”  
@@ -77,10 +99,11 @@ I reflect & plan every **World Domination Friday**:
 
 ### 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/nicholas-a-clark)
-- 📧 nicholas.a.clark@outlook.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/nicholas-a-clark)  
+- 🧑‍💻 [GitHub](https://github.com/NickTheDevOpsGuy)  
+- 📧 **nicholas.a.clark@outlook.com**
 
 ---
 
-> *“The world is run by those who ship. I ship.”*  
+> 🦝 *“The world is run by those who ship — and I ship weekly.”*  
 > — **Nick Clark**
