@@ -90,7 +90,6 @@ Because even automation needs iteration.
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/nicholas-a-clark)  
 - 🧑‍💻 [GitHub](https://github.com/NickTheDevOpsGuy)  
-- 📧 **nicholas.a.clark@outlook.com**
 
 ---
 
