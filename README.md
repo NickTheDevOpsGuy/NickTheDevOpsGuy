@@ -81,8 +81,8 @@ Because even automation needs iteration.
 
 ### 📊 GitHub Stats
 
-![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=NickTheDevOpsGuy&show_icons=true&theme=radical&cache_seconds=3600)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NickTheDevOpsGuy&layout=compact&theme=radical&cache_seconds=3600)
+![Nick's GitHub stats](https://github-readme-stats-orpin-six-32.vercel.app/api?username=NickTheDevOpsGuy&show_icons=true&theme=radical&cache_seconds=3600)
+![Top languages](https://github-readme-stats-orpin-six-32.vercel.app/api/top-langs/?username=NickTheDevOpsGuy&layout=compact&theme=radical&cache_seconds=3600)
 
 ---
 
