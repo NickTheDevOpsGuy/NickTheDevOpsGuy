@@ -50,12 +50,10 @@ Focused on Azure DevOps automation, Infrastructure as Code, and CI/CD pipelines 
 | **🧩 Platform Engineering** | [**Kubernetes**](https://github.com/NickTheDevOpsGuy/Kubernetes) | Cluster automation, manifests, Helm, and observability stacks for Kubernetes experiments. |
 | **🎮 React Apps** | [**GrowOPs**](https://github.com/NickTheDevOpsGuy/GrowOPs) | DevOps-as-a-Service toolkit — reusable templates, pipelines, and platform blueprints. |
 | **🎮 React Game** | [**Constellation**](https://github.com/NickTheDevOpsGuy/Constellation) | Central dashboard project connecting all learning, analytics, and lab repositories. |
-| **🎮 React Games** | [**ToggleTheDarkness**](https://github.com/NickTheDevOpsGuy/ToggleTheDarkness) | Dark-mode puzzle game built with React + Tailwind — used for CI/CD and testing demos. |
-| **🎮 React Gamexs** | [**Snake**](https://github.com/NickTheDevOpsGuy/Snake) | Classic Snake rebuilt in React with modern hooks and clean state management. |
-| **🎮 React Experiments** | [**React**](https://github.com/NickTheDevOpsGuy/React) | Front-end playground for UI experiments and reusable CI/CD React templates. |
+| **🎮 React Game** | [**ToggleTheDarkness**](https://github.com/NickTheDevOpsGuy/ToggleTheDarkness) | Dark-mode puzzle game built with React + Tailwind — used for CI/CD and testing demos. |
+| **🎮 React Game** | [**Snake**](https://github.com/NickTheDevOpsGuy/Snake) | Classic Snake rebuilt in React with modern hooks and clean state management. |
 
 ---
-
 
 ### 🗓️ Weekly DevOps Ritual
 
